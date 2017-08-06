@@ -1,0 +1,3 @@
+[submodule "eeprom-programmer"]
+	path = eeprom-programmer
+	url = git@github.com:benohara/eeprom-programmer
